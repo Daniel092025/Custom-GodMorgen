@@ -1,0 +1,14 @@
+//Eksempel på å bestemme hva en spesifik kall på en character//
+
+```csharp
+string q = "Q";
+    var character = q.ToCharArray()[0];
+    Console.WriteLine((int) character);
+```
+
+/Eksempel på dictionary (Bascically lookup table)
+
+```csharp
+Dictionary<string, string> specialFridayGreetingTable = [];
+
+    specialFridayGreetingTable["friday"] = "tgif";

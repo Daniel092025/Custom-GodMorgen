@@ -6,7 +6,7 @@ class Program
         Console.WriteLine("Hei! Hva er navnet ditt?");
         String? navn = Console.ReadLine();
 
-        while (navn?.Length < 2)
+        while (navn?.Length < 3)
         {
             Console.WriteLine("Beklager, navnet må være lengre enn 2 karakterer. Prøv igjen!");
             navn = Console.ReadLine();
