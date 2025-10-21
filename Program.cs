@@ -39,7 +39,7 @@ class Program
         {
             {"For ung", "Du er for ung, gå bort"},
             {"Best years", "Du lever ditt beste liv!"},
-            {"Feil vei", "Det går bare nedover!"},
+            {"Feil vei", "Det går bare nedover dessverre!"},
             {"Cruise", "Nå er det bare å cruise til pensjon"},
             {"Pensjonist", "Er bare å nyte livet å visne bort"},
             {"Error", "Super error, du er innenfor parameterene"},
